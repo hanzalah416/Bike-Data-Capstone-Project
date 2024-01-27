@@ -8,7 +8,7 @@ This project involves a detailed analysis of bike-share data, focusing on explor
 
 Folder Structure:
 -----------------
--FinalReport.pdf - Final Google Data Analytics Capstone Project Report
+-FinalReport.pdf - Final Google Data Analytics Capstone Project Report https://drive.google.com/file/d/1efTjh_o073kixkClSRVRAUnRBY2Myr7T/view?usp=sharing 
 
 - Data/
   - Data.zip/    - Contains cleaned and organized data files, both in CSV and Excel formats.
