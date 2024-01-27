@@ -33,6 +33,8 @@ Folder Structure:
     - infoyear.sql             - SQL query for yearly data information.
 
 - Graphs/                      - Contains generated graphs and visualizations.
+-  https://hanzalah416.github.io/Bike-Data-Capstone-Project/Graphs/casual_heatmap.html
+-  https://hanzalah416.github.io/Bike-Data-Capstone-Project/Graphs/member_heatmap.html
 
 Tools Used:
 -----------
