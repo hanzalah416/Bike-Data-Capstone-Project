@@ -1,5 +1,5 @@
 # Bike-Data-Capstone-Project
-README.txt
+README.md
 
 Project Summary:
 ----------------
@@ -42,7 +42,7 @@ Tools Used:
 
 - Excel: Used for initial data cleaning, organization, and basic visualization.
 
-- Docker: Utilized for setting up isolated SQL environments to run queries on tables created from imported csv files in Cleaned:Organized Data/
+- Docker: Utilized for setting up isolated SQL environments to run queries on tables created from imported csv files in Data/
 
 Project Overview:
 -----------------
