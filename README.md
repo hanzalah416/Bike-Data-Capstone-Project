@@ -15,9 +15,9 @@ Folder Structure:
     - 12monthsdata2023.csv
     - 12monthsdata2023.xlsx
     - membercasualridelengthkm.csv
-    - membercasualridelengthkm.xlsx
+    - membercasualridelengthkm.xlsx 
   - Raw Source Data/           - Original, raw data files.
-
+  - Taken from https://divvy-tripdata.s3.amazonaws.com/index.html
 - Data Analysis: Graph Creation Code/
   - python/                    - Python scripts for data analysis and visualization.
     - datamonthspiderplot.py   - Generates spider plots for monthly data.
